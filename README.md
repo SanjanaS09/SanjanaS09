@@ -20,8 +20,10 @@
 ---
 
 ### 💼 Internship Experience
-- 🏢 **Intern @ Drilldown**  
-  Contributed to backend APIs and frontend components using Flask and React. Gained hands-on experience with API integration, performance optimization, and data visualization using Power BI.
+- 🏢 **Intern @ Drilldown**
+💼 Completed a tech internship at Drilldown, contributing to projects like an Asset Management System and Queueing System and MenuQrate.  
+🔧 Gained hands-on experience in full-stack development using React, Flask, Firebase & Express.js, while building real-world applications like Konkan Route and a multi-restaurant menu system.  
+🚀 Strengthened skills in API integration, responsive design, and team collaboration through impactful, client-focused solutions.
 
 ---
 
