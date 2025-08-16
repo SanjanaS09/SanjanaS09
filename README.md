@@ -43,7 +43,4 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanas09&theme=default" alt="sanjanas09 streak" />
-</p>
+
