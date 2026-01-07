@@ -19,8 +19,6 @@ Currently working with <b>React, Flask, Firebase, MySQL</b> and expanding into <
 - Reduced manual coordination efforts by over **80%** through process automation and centralized data management.
 - Focused on responsive UI, secure access control, and real-time data synchronization.
 
----
-
 ### 🍽️ MenuQRate – Multi-Tenant Restaurant Website Builder
 **Tech:** React.js, Firebase, Razorpay  
 
@@ -29,8 +27,6 @@ Currently working with <b>React, Flask, Firebase, MySQL</b> and expanding into <
 - Integrated Razorpay for seamless online payments and subscription management.
 - Designed an intuitive admin dashboard for menu updates, pricing, and content control.
 
----
-
 ### 🧠 Real-Time AI-Driven Deepfake Detection System
 **Tech:** Python, OpenCV, TensorFlow / PyTorch, Flask  
 
@@ -38,8 +34,6 @@ Currently working with <b>React, Flask, Firebase, MySQL</b> and expanding into <
 - Applied CNN-based visual feature extraction along with statistical and frequency-domain analysis for forgery detection.
 - Developed deepfake audio detection for voice phishing using MFCCs, pitch variations, and noise residual analysis.
 - Built Flask-based APIs for real-time inference with a focus on security, scalability, and cross-dataset generalization.
-
----
 
 ### 🧾 Resume Extractor
 **Tech:** React.js, Flask, Firebase  
@@ -51,8 +45,6 @@ Currently working with <b>React, Flask, Firebase, MySQL</b> and expanding into <
 - Designed a simple, clean UI for seamless uploads and instant results.
 - Improved recruiter efficiency by minimizing manual resume screening efforts.
 
----
-
 ### 🏢 Asset Management System
 **Tech:** Firebase, React.js  
 
@@ -60,8 +52,6 @@ Currently working with <b>React, Flask, Firebase, MySQL</b> and expanding into <
 - Automated AMC (Annual Maintenance Contract) tracking and asset lifecycle monitoring.
 - Implemented role-based access for HR, managers, and employees.
 - Enabled real-time asset status updates and smooth data synchronization.
-
----
 
 ### 🗺️ KonkanRoute – E-commerce Platform
 **Tech:** React.js, Firebase, Razorpay  
