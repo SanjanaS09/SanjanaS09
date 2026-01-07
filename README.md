@@ -1,40 +1,105 @@
 <h1 align="center">Hi 👋, I'm Sanjana Shetty</h1>
-<!-- <h3 align="center">💻 Developer | 🚀 Tech Explorer | 📊 Data Enthusiast</h3> -->
 
-<p align="center">I'm a passionate student and developer diving deep into the worlds of full-stack web development, AI/ML, and data visualization. I love building real-world solutions and continuously exploring new technologies. Currently working with React, Flask, Firebase, and MySQL — and leveling up in Power BI and MongoDB.</p>
-
----
-
-### 🌟 Current Projects
-- 🔧 [Placement Management System](https://iiic-umit.web.app/) — A full-fledged web app streamlining campus placements.
-- 📄 [Resume Extractor](https://resume-extractor-5e003.web.app/) — Upload a resume and extract useful candidate data.
-- 🗺️ [KonkanRoute](https://konkanroute.com/) — A travel website showcasing the beauty of Konkan.
+<p align="center">
+A Computer Science engineering student and passionate developer exploring <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Data Visualization</b>.  
+I enjoy building real-world, scalable applications and experimenting with modern technologies.  
+Currently working with <b>React, Flask, Firebase, MySQL</b> and expanding into <b>Power BI</b> and <b>MongoDB</b>.
+</p>
 
 ---
 
-### 🚀 What I'm Learning Now
-- 📊 **Power BI** — For interactive dashboards and business insights  
-- 🍃 **MongoDB** — Diving into NoSQL and scalable databases  
-- ⚛️ **Advanced React + Flask** — Clean architecture and robust backend integration
+## 🌟 Projects
+
+### 🔧 Placement Management System
+**Tech:** React.js, Flask, Firebase, MySQL  
+🔗 https://iiic-umit.web.app/
+
+- Developed a secure, multi-role web application to manage campus placement activities for students, recruiters, and coordinators.
+- Implemented role-based authentication, resume builder, application tracking, and automated workflows.
+- Reduced manual coordination efforts by over **80%** through process automation and centralized data management.
+- Focused on responsive UI, secure access control, and real-time data synchronization.
 
 ---
 
-### 💼 Internship Experience
-- 🏢 **Intern @ Drilldown**
-💼 Completed a tech internship at Drilldown, contributing to projects like an Asset Management System and Queueing System and MenuQrate.  
-🔧 Gained hands-on experience in full-stack development using React, Flask, Firebase & Express.js, while building real-world applications like Konkan Route and a multi-restaurant menu system.  
-🚀 Strengthened skills in API integration, responsive design, and team collaboration through impactful, client-focused solutions.
+### 🍽️ MenuQRate – Multi-Tenant Restaurant Website Builder
+**Tech:** React.js, Firebase, Razorpay  
+
+- Built a scalable, multi-tenant SaaS platform allowing restaurants to create and manage digital menus on custom subdomains.
+- Implemented Firebase Authentication and role-based access to ensure tenant isolation and secure data handling.
+- Integrated Razorpay for seamless online payments and subscription management.
+- Designed an intuitive admin dashboard for menu updates, pricing, and content control.
 
 ---
 
-### 🌐 Portfolio
-- 🔗 [sanjana-shetty.web.app](https://sanjana-shetty.web.app/)
+### 🧠 Real-Time AI-Driven Deepfake Detection System
+**Tech:** Python, OpenCV, TensorFlow / PyTorch, Flask  
+
+- Designed a multi-modal deepfake detection system capable of identifying manipulated images, videos, and audio.
+- Applied CNN-based visual feature extraction along with statistical and frequency-domain analysis for forgery detection.
+- Developed deepfake audio detection for voice phishing using MFCCs, pitch variations, and noise residual analysis.
+- Built Flask-based APIs for real-time inference with a focus on security, scalability, and cross-dataset generalization.
 
 ---
 
-### 📫 How to Reach Me
-- ✉️ **Email:** sanjanashetty964@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanjana-shetty-1a304b258/)
+### 🧾 Resume Extractor
+**Tech:** React.js, Flask, Firebase  
+
+🔗 https://resume-extractor-5e003.web.app/
+
+- Created a web-based tool to extract structured information from uploaded resumes.
+- Automated parsing of candidate details such as skills, education, and experience.
+- Designed a simple, clean UI for seamless uploads and instant results.
+- Improved recruiter efficiency by minimizing manual resume screening efforts.
+
+---
+
+### 🏢 Asset Management System
+**Tech:** Firebase, React.js  
+
+- Developed a cloud-based asset tracking system for organizations to manage company assets and maintenance schedules.
+- Automated AMC (Annual Maintenance Contract) tracking and asset lifecycle monitoring.
+- Implemented role-based access for HR, managers, and employees.
+- Enabled real-time asset status updates and smooth data synchronization.
+
+---
+
+### 🗺️ KonkanRoute – E-commerce Platform
+**Tech:** React.js, Firebase, Razorpay  
+
+🔗 https://konkanroute.com/
+
+- Built a customer-centric e-commerce platform offering authentic food and spices from Konkan railway stations.
+- Integrated secure payment processing using Razorpay and Firebase Authentication.
+- Implemented personalized product filtering and real-time order tracking.
+- Focused on performance optimization and smooth user experience.
+
+---
+
+## 💼 Internship Experience
+
+### 🏢 Tech Intern — Drilldown  
+**Aug 2024 – May 2025**
+
+- Worked on multiple real-world projects including Asset Management System, MenuQRate, and KonkanRoute.
+- Gained hands-on experience across the full stack using React, Flask, Firebase, and Express.js.
+- Contributed to API integration, responsive UI development, debugging, and deployment.
+- Strengthened problem-solving, teamwork, and client-focused development skills.
+
+---
+
+## 🚀 Currently Learning
+- 📊 **Power BI** – Interactive dashboards and business insights  
+- 🍃 **MongoDB** – NoSQL databases and scalable data modeling  
+- ⚛️ **Advanced React & Flask** – Clean architecture and optimized backend integration  
+
+---
+
+## 🌐 Portfolio
+🔗 https://sanjana-shetty.web.app/
+
+## 📫 Contact
+- ✉️ Email: sanjanashetty964@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sanjana-shetty-1a304b258/
 
 ---
 
